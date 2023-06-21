@@ -1,5 +1,9 @@
 # "HIGHLY SOPHISTICATED" Algo-Trader based on AI Analysis of Twitter Data
 
+## Credit
+
+This bot was created by following a Fireship tutorial on Youtube and adding some of my own tweaks. Credit: https://www.youtube.com/c/Fireship
+
 ## Project Description
 
 This project is a server-side implementation of an automated trading algorithm. This algorithm uses AI to analyse data from Twitter and execute trades based on the insights it gathers. The application leverages the Google Firebase Functions platform for serverless deployment, OpenAI's GPT model for language understanding, Puppeteer for web scraping, and Alpaca's trading API to execute trades.
@@ -65,10 +69,6 @@ If you'd like to contribute, I'm not sure why you would but, please fork the rep
 ## Disclaimer
 
 This bot should not be used as a sole source for investment decisions. Please perform your own due diligence before making any investment.
-
-## Credit
-
-This bot was created by following a Fireship tutorial on Youtube and adding some of my own tweaks. Credit: https://www.youtube.com/c/Fireship
 
 ## License
 
