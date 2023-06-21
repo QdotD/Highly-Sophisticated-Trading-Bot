@@ -1,4 +1,4 @@
-# HIGHLY SOPHISTICATED Algo-Trader based on AI Analysis of Twitter Data
+# "HIGHLY SOPHISTICATED" Algo-Trader based on AI Analysis of Twitter Data
 
 ## Project Description
 
