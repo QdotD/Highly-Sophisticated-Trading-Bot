@@ -6,7 +6,7 @@ This bot was created by following a Fireship tutorial on Youtube and adding some
 
 ## Project Description
 
-This project is a server-side implementation of an automated trading algorithm. This algorithm uses AI to analyse data from Twitter and execute trades based on the insights it gathers. The application leverages the Google Firebase Functions platform for serverless deployment, OpenAI's GPT model for language understanding, Puppeteer for web scraping, and Alpaca's trading API to execute trades.
+This project is a server-side implementation of an automated trading algorithm. This algorithm uses AI to analyze data from Twitter and execute trades based on the insights it gathers. The application leverages the Google Firebase Functions platform for serverless deployment, OpenAI's GPT model for language understanding, Puppeteer for web scraping, and Alpaca's trading API to execute trades.
 
 ## Features
 
